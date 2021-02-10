@@ -6,7 +6,8 @@ class App extends Component {
     return (
       <div>
         <h1>
-          This is how we do it from terminal back to git changes 212 from cb!
+          This is how we do it from terminal back to git changes 212 from cb
+          1111! From PC changes
         </h1>
       </div>
     );

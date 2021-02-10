@@ -5,7 +5,9 @@ class App extends Component {
   render() {
     return (
       <div>
-        <h1>This is how we do it from terminal back to git!</h1>
+        <h1>
+          This is how we do it from terminal back to git changes 212 from cb!
+        </h1>
       </div>
     );
   }

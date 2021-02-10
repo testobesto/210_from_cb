@@ -5,10 +5,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        <h1>
-          This is how we do it from terminal back to git changes 212 from cb
-          1111! From PC changes
-        </h1>
+        <h1>Change it all you are supprised!</h1>
       </div>
     );
   }
